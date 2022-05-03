@@ -1,0 +1,45 @@
+#header-class {
+background-image: linear-gradient(to right, rgb(67, 67, 231), darkblue);
+}
+
+ul {
+    list-style: none;
+
+}
+
+li {
+    text-align: left;
+    padding-left: 10px;
+}
+
+.currentCard {
+    position: relative;
+bottom: 300px;
+left: 260px;
+margin-bottom: 100px;
+}
+
+.fiveDayCard {
+    position: relative;
+    bottom: 400px;
+    left: 270px;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.fiveDayColor {
+    padding: 20px;
+    background-color: #222e42;
+    color: white;
+    float: left;
+    margin: 10px;
+    border: 1px solid lightgray;
+
+}
